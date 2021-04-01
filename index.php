@@ -25,7 +25,7 @@
         </div>
 
         <div class="text">
-        <p>Welcome!</p>
+        <p>Welcome!euna Tonja fhakldfhakdfhakef</p>
         </div>
         <div class="para">
             <p>Integer sed ex nec nulla consequat tristique id vitae dui. Donec purus mauris, luctus sit amet viverra in, luctus a massa. Nulla id vulputate justo, in gravida elit. Suspendisse mattis quam in lacus elementum condimentum. Vestibulum sollicitudin venenatis finibus. Sed porttitor fermentum erat, vel gravida mi ornare ac. Aliquam tincidunt, mi at commodo efficitur, libero mauris bibendum erat, ut ullamcorper elit neque ac dolor. Nullam quam turpis, vestibulum in scelerisque nec, mollis nec sapien. Nulla posuere, diam id consequat elementum, lectus nisi condimentum metus, ut imperdiet odio velit a mi. Maecenas efficitur tincidunt neque in scelerisque. In purus orci, ultrices eu ex ut, vestibulum placerat est. </p>
